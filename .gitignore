@@ -1,2 +1,12 @@
-*~
-
+/.vscode
+__pycache__
+/venv
+/checkpoints
+/out
+/working
+/log
+/output
+/working
+/trash
+/data
+/parse_power_logs/logs
